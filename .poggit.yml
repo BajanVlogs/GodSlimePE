@@ -3,5 +3,5 @@ branches:
 - master
 projects:
   GodSlimePE:
-    path: ""
+    path: "Slimeball.png"
 ...
