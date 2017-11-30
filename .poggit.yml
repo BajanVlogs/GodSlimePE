@@ -3,6 +3,5 @@ branches:
 - master
 projects:
   GodSlimePE:
-    path: ""
-    icon: icon.jpg
+    path: "icon.jpg"
 ...
