@@ -4,5 +4,5 @@ branches:
 projects:
   GodSlimePE:
     path: ""
-    icon: "Slimeball.png"
+    icon: "icon.png"
 ...
